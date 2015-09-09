@@ -1,3 +1,5 @@
+[![Android Gems](http://www.android-gems.com/badge/KyleBanks/IconEditText.svg?branch=master)](http://www.android-gems.com/lib/KyleBanks/IconEditText)
+
 # IconEditText for Android
 
 `IconEditText` provides a reusable view for displaying an `ImageView` with an `EditText` for `Android 4.0 +`.
